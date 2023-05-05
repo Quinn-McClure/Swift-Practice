@@ -12,4 +12,14 @@ import UIKit
 print("Hello World")
 
 
+//variable creation
+var hello = "hello"
+//key words are similar to js
+
+var a = 5
+var b = 8
+
+print(a)
+print(a + b)
+
 
