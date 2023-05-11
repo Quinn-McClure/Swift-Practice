@@ -22,4 +22,11 @@ var b = 8
 print(a)
 print(a + b)
 
+//range and constants
+
+//constants --> cant change values
+let c = 20
+
+//randomisation
+
 
